@@ -1,13 +1,12 @@
 [
         {
-                "codename": "apollon",
-                "name": "Xiaomi Mi 10T/Pro",
-                "brand": "Xiaomi",
-                "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-official-2021-06-17-fluid-1-6-for-the-xiaomi-mi-10t-pro-apollon.4278157/",
+                "codename": "youareanidiotwhyareyoulookingatthis",
+                "name": "Passionfruit 11 Pro Max Plus 5G Ultra",
+                "brand": "Passionfruit",
+                "xda_thread": "#",
                 "maintainer": {
-                        "name": "Ramii Ahmed",
-                        "github_username": "Ramisky",
-                        "telegram_url": "http://t.me/ramiskyy"
+                        "name": "Your Mom",
+                        "github_username": "desktopdotini",
                 },
                 "supported_versions": {
                         "eleven_gapped": {
